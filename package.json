@@ -1,8 +1,8 @@
 {
-  "name": "todo-app",
+  "name": "react-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/sasha-is-permi/react-test",
+  "homepage": "https://sasha-is-permi.github.io/react-test",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
