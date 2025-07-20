@@ -53,3 +53,5 @@ http://localhost:3000
 ### 2. Добавление новой задачи и автоматическое обновление списка
 
 ### Запуск тестирования- npm test
+
+### Деплой на https://sasha-is-permi.github.io/react-test
